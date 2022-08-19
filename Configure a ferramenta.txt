@@ -180,3 +180,5 @@ Envia todos os commits do branch local para o GitHub
 $ git pull
 
 Baixa o histórico e incorpora as mudanças
+
+Este são os comandos da ferramenta
